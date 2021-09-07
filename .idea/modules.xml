@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/third-homework-yetanrikulu/Currency Converter/Currency Converter.iml" filepath="$PROJECT_DIR$/third-homework-yetanrikulu/Currency Converter/Currency Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-homework-yetanrikulu/School Management System/School Management System.iml" filepath="$PROJECT_DIR$/third-homework-yetanrikulu/School Management System/School Management System.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-homework-yetanrikulu/first-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/first-homework-yetanrikulu/first-homework-yetanrikulu.iml" />
       <module fileurl="file://$PROJECT_DIR$/fourth-homework-yetanrikulu/fourth-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/fourth-homework-yetanrikulu/fourth-homework-yetanrikulu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/odevler.iml" filepath="$PROJECT_DIR$/.idea/odevler.iml" />
       <module fileurl="file://$PROJECT_DIR$/second-homework-yetanrikulu/second-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/second-homework-yetanrikulu/second-homework-yetanrikulu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-homework-yetanrikulu/third-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/third-homework-yetanrikulu/third-homework-yetanrikulu.iml" />
     </modules>
   </component>
 </project>
