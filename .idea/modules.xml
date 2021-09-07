@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/first-homework-yetanrikulu/first-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/first-homework-yetanrikulu/first-homework-yetanrikulu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourth-homework-yetanrikulu/fourth-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/fourth-homework-yetanrikulu/fourth-homework-yetanrikulu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/odevler.iml" filepath="$PROJECT_DIR$/.idea/odevler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second-homework-yetanrikulu/second-homework-yetanrikulu.iml" filepath="$PROJECT_DIR$/second-homework-yetanrikulu/second-homework-yetanrikulu.iml" />
+    </modules>
+  </component>
+</project>
